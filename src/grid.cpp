@@ -46,7 +46,7 @@ void Grid::InitCells(std::vector<unsigned int>& sequence)
 	//Base Case n = 1
 	Cells[0].CenterX = Display_w / 2.0f;
 	Cells[0].CenterY = Display_h / 2.0f;
-	Cells[0].OppositeX = Cells[0].CenterX + Cells[0].Radius;
+	Cells[0].OppositeX = Cells[0].CenterX - Cells[0].Radius;
 	Cells[0].OppositeY = Cells[0].CenterY + Cells[0].Radius;
 	Cells[0].AngleMin = 0.5f;
 	Cells[0].AngleMax = 1.0f;
@@ -56,7 +56,7 @@ void Grid::InitCells(std::vector<unsigned int>& sequence)
 		//Possible second occurence of n = 1
 		Cells[1].CenterX = Cells[0].CenterX;
 		Cells[1].CenterY = Cells[0].CenterY;
-		Cells[1].OppositeX = Cells[1].CenterX - Cells[1].Radius;
+		Cells[1].OppositeX = Cells[1].CenterX + Cells[1].Radius;
 		Cells[1].OppositeY = Cells[1].CenterY + Cells[1].Radius;
 		Cells[1].AngleMin = 0.0f;
 		Cells[1].AngleMax = 0.5f;
