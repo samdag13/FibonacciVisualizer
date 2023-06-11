@@ -1,0 +1,8 @@
+C:/Users/samda/Desktop/test-fibonacci/out/build/x64-Debug/CMakeFiles/fibui.dir
+C:/Users/samda/Desktop/test-fibonacci/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/samda/Desktop/test-fibonacci/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/samda/Desktop/test-fibonacci/out/build/x64-Debug/3rdparty/glfw/CMakeFiles/edit_cache.dir
+C:/Users/samda/Desktop/test-fibonacci/out/build/x64-Debug/3rdparty/glfw/CMakeFiles/rebuild_cache.dir
+C:/Users/samda/Desktop/test-fibonacci/out/build/x64-Debug/3rdparty/glfw/src/CMakeFiles/glfw.dir
+C:/Users/samda/Desktop/test-fibonacci/out/build/x64-Debug/3rdparty/glfw/src/CMakeFiles/edit_cache.dir
+C:/Users/samda/Desktop/test-fibonacci/out/build/x64-Debug/3rdparty/glfw/src/CMakeFiles/rebuild_cache.dir
